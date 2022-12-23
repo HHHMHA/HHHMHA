@@ -29,6 +29,6 @@
 </p>
 <p align="center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HHHMHA&theme=tokyonight&hide_border=true&column=4&margin-w=15&margin-h=15&no-frame=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=HHHMHA&theme=tokyonight&hide_border=true&column=7&margin-w=15&margin-h=15&no-frame=true">
   </a>       
 </p>
