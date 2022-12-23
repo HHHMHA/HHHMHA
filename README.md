@@ -11,7 +11,7 @@
 </p>
 <p align="center>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=HHHMHA&theme=tokyo-night&hide_border=true">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HHHMHA&theme=tokyo-night&hide_border=true">
   </a>       
 </p>
 <p align="center">
