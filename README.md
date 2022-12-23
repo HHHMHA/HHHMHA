@@ -1,4 +1,10 @@
 <p align="center">
+  Since 23/12/2022
+  <a href="https://github.com/antonkomarev/github-profile-views-counter&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=HHHMHA">
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=HHHMHA&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true">
   </a>
@@ -20,4 +26,9 @@
   </a>
   
   <img src="https://wakatime.com/share/@J2mF/9f612237-2dea-4b77-92a3-e7d83b228337.svg">
+</p>
+<p align="center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HHHMHA&theme=tokyonight&hide_border=true&column=4&margin-w=15&margin-h=15&no-frame=true">
+  </a>       
 </p>
