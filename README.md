@@ -1,7 +1,7 @@
 <p align="center">
   Since 23/12/2022
-  <a href="https://github.com/antonkomarev/github-profile-views-counter&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=HHHMHA">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=HHHMHA&style=for-the-badge">
   </a>
 </p>
 <p align="center">
